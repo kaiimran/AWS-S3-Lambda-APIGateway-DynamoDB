@@ -1,7 +1,5 @@
 # Basic web using Amazon S3, Amazon API Gateway, AWS Lambda, AWS IAM and Amazon DynamoDB
 
-This is my website: https://kaiimran-static-website.s3-ap-southeast-1.amazonaws.com/index.html
-
 # Application Architecture
 The diagram below provides a visual representation of the services used in this tutorial and how they are connected.
 
